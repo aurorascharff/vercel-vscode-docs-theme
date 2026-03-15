@@ -1,29 +1,25 @@
-# Vercel Cursor/VSCode Theme
+# Vercel Theme for VSCode/Cursor
 
-Theme based on the Vercel code theme from ray.so.
+Dark and light themes matching the Vercel docs syntax highlighting.
 
-**Note:** This is not an official Vercel theme. It's a hobby project created by an individual (who happens to work at Vercel at the time of creation), and is not affiliated with or endorsed by Vercel.
+**Note:** This is not an official Vercel theme. It is not affiliated with or endorsed by Vercel.
 
 ## Preview
 
-![Vercel Theme Screenshot](screenshots/screenshot.png)
+### Vercel Dark
+
+![Vercel Dark Theme Screenshot](screenshots/screenshot.png)
+
+## Themes
+
+- **Vercel Dark** - Dark theme matching the Vercel docs code blocks
+- **Vercel Light** - Light theme matching the Vercel docs light mode
 
 ## Installation
 
 ### From Marketplace
 
-Search for "Vercel VSCode Theme" in the VSCode/Cursor Extensions marketplace and install the extension by `natemcgrady`.
-
-### From VSIX File
-
-1. Download the [.vsix](https://github.com/SotaN8/vercel-vscode-theme/blob/main/vercel-vscode-theme-1.0.0.vsix) file
-2. Install using one of these commands:
-   - VSCode: `code --install-extension vercel-vscode-theme-1.0.0.vsix`
-   - Cursor: `cursor --install-extension vercel-vscode-theme-1.0.0.vsix`
-3. Select the theme:
-   - Open Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
-   - Type "Color Theme"
-   - Select "Vercel"
+Search for "Vercel Theme" in the VSCode/Cursor Extensions marketplace and install the extension by `aurorascharff`.
 
 ### Manual Installation
 
@@ -35,20 +31,15 @@ Search for "Vercel VSCode Theme" in the VSCode/Cursor Extensions marketplace and
 4. Select the theme:
    - Open Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
    - Type "Color Theme"
-   - Select "Vercel"
+   - Select "Vercel Dark" or "Vercel Light"
 
 ## Credits & Attribution
 
 This theme is inspired by the [Vercel theme](https://ray.so/#padding=64&theme=vercel) from [ray.so](https://ray.so) by [Raycast](https://www.raycast.com/).
 
-### Acknowledgments
-
 - **ray.so** is an open-source project by Raycast, licensed under the MIT License
 - Repository: [github.com/raycast/ray-so](https://github.com/raycast/ray-so)
-- This theme extracts and adapts the color scheme from the Vercel theme for use in VS Code/Cursor
 
 ## License
 
 This VS Code/Cursor theme is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-The color scheme is inspired by ray.so's Vercel theme, which is also MIT licensed.

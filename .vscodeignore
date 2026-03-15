@@ -18,7 +18,6 @@ tslint.json
 
 # Development files
 .cursor/**
-screenshots/**
 
 # Git and GitHub files
 .github/**

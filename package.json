@@ -1,8 +1,8 @@
 {
-  "name": "vercel-dark-theme",
-  "displayName": "Vercel Dark Theme",
-  "description": "Dark theme for VSCode/Cursor matching the Vercel docs syntax highlighting",
-  "version": "0.1.0",
+  "name": "vercel-docs-theme",
+  "displayName": "Vercel Docs Theme",
+  "description": "Dark and light themes for VSCode/Cursor matching the Vercel docs syntax highlighting",
+  "version": "0.2.0",
   "publisher": "aurorascharff",
   "license": "MIT",
   "repository": {
@@ -30,9 +30,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vercel",
+        "label": "Vercel Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vercel.json"
+      },
+      {
+        "label": "Vercel Light",
+        "uiTheme": "vs",
+        "path": "./themes/vercel-light.json"
       }
     ]
   },
