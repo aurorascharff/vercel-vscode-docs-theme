@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sotan8/vercel-vscode-theme"
+    "url": "https://github.com/aurorascharff/vercel-vscode-theme"
   },
-  "homepage": "https://github.com/sotan8/vercel-vscode-theme#readme",
+  "homepage": "https://github.com/aurorascharff/vercel-vscode-theme#readme",
   "bugs": {
-    "url": "https://github.com/sotan8/vercel-vscode-theme/issues"
+    "url": "https://github.com/aurorascharff/vercel-vscode-theme/issues"
   },
   "engines": {
     "vscode": "^1.60.0"

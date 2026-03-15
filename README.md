@@ -35,6 +35,8 @@ Search for "Vercel Theme" in the VSCode/Cursor Extensions marketplace and instal
 
 ## Credits & Attribution
 
+Forked from [natemcgrady/vercel-vscode-theme](https://github.com/natemcgrady/vercel-vscode-theme) by Nate McGrady.
+
 This theme is inspired by the [Vercel theme](https://ray.so/#padding=64&theme=vercel) from [ray.so](https://ray.so) by [Raycast](https://www.raycast.com/).
 
 - **ray.so** is an open-source project by Raycast, licensed under the MIT License
