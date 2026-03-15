@@ -10,6 +10,10 @@ Dark and light themes matching the Vercel docs syntax highlighting.
 
 ![Vercel Dark Theme Screenshot](screenshots/screenshot.png)
 
+### Vercel Light
+
+![Vercel Light Theme Screenshot](screenshots/screenshot-light.png)
+
 ## Themes
 
 - **Vercel Dark** - Dark theme matching the Vercel docs code blocks
@@ -19,7 +23,7 @@ Dark and light themes matching the Vercel docs syntax highlighting.
 
 ### From Marketplace
 
-Search for "Vercel Theme" in the VSCode/Cursor Extensions marketplace and install the extension by `aurorascharff`.
+Search for "Vercel Docs Theme" in the VSCode/Cursor Extensions marketplace and install the extension by `aurorascharff`.
 
 ### Manual Installation
 

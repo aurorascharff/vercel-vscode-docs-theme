@@ -1,37 +1,26 @@
 # Change Log
 
-All notable changes to the "Vercel Theme" extension will be documented in this file.
+All notable changes to the "Vercel Docs Theme" extension will be documented in this file.
 
-## [1.0.1] - 2025-11-04
-
-### Changed
-- Added disclaimer to README clarifying this is not an official Vercel theme
-- Sidebar border color matching other UI borders
-- Remote window button styling with blue background
-- Git decoration colors for staged files (added, modified, deleted)
-
-## [1.0.0] - 2025-10-30
+## [0.2.0] - 2026-03-15
 
 ### Added
-- Initial release of Vercel theme for VSCode/Cursor
-- Dark theme based on Vercel's ray.so color scheme
-- Support for JavaScript, TypeScript, React/JSX, TSX
-- Complete UI color customization
-- Syntax highlighting for:
-  - Keywords and control flow
-  - Strings and template literals
-  - Functions and methods
-  - Comments
-  - Numbers and constants
-  - Types and interfaces
-  - HTML/JSX tags and attributes
-  - Markdown formatting
-  - JSON properties
-- Vercel-inspired color palette:
-  - Pure black background (#000000)
-  - Vercel blue accents (#0070f3)
-  - Pink keywords (#ff4d8d)
-  - Green strings (#00cb50)
-  - Purple functions (#c473fc)
-  - Blue types (#47a8ff)
+- Vercel Light theme matching the Vercel docs light mode
+- Vercel triangle icon (white on black)
+- Screenshot of dark theme to README
 
+### Changed
+- Renamed extension to "Vercel Docs Theme"
+- Updated README with new installation instructions and attribution
+
+## [0.1.0] - 2026-03-15
+
+### Changed
+- Fixed JSX children text appearing green instead of white
+- Changed function names/calls from purple to blue to match Vercel docs
+- Removed overly broad TSX meta-scope rules that caused unintended coloring
+- Cleaned up type annotation and entity name scopes
+- Updated publisher and repository URLs
+
+### Based on
+- Forked from [natemcgrady/vercel-vscode-theme](https://github.com/natemcgrady/vercel-vscode-theme) v1.0.1
