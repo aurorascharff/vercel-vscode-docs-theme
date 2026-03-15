@@ -177,7 +177,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#c473fc",
+        "foreground": "#47a8ff",
         "fontStyle": ""
       }
     },
@@ -246,23 +246,16 @@
     },
     {
       "scope": [
-        "entity.name.type.tsx",
-        "meta.type.annotation.tsx",
-        "meta.var-single-variable.expr.tsx",
-        "entity.name"
+        "entity.name.type",
+        "entity.name.class",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#C473FC"
       }
     },
     {
-      "scope": [
-        "punctuation.separator.key-value.tsx",
-        "meta.object.member.tsx",
-        "meta.objectliteral.tsx",
-        "meta.var.expr.tsx",
-        "source.tsx"
-      ],
+      "scope": ["punctuation.separator.key-value"],
       "settings": {
         "foreground": "#FF4D8D"
       }
@@ -274,18 +267,16 @@
       }
     },
     {
+      "scope": ["meta.jsx.children.tsx"],
+      "settings": {
+        "foreground": "#eeeeee"
+      }
+    },
+    {
       "scope": [
-        "punctuation.definition.string.template.begin.tsx",
-        "punctuation.definition.string.template.end.tsx",
-        "string.template.tsx",
-        "meta.embedded.expression.tsx",
-        "meta.tag.attributes.tsx",
-        "meta.tag.tsx",
-        "meta.jsx.children.tsx",
-        "meta.block.tsx",
-        "meta.function.expression.tsx",
-        "meta.export.default.tsx",
-        "source.tsx"
+        "punctuation.definition.string.template.begin",
+        "punctuation.definition.string.template.end",
+        "string.template"
       ],
       "settings": {
         "foreground": "#00CB50"
@@ -293,37 +284,11 @@
     },
     {
       "scope": [
-        "punctuation.definition.template-expression.begin.tsx",
-        "punctuation.definition.template-expression.end.tsx",
-        "meta.template.expression.tsx",
-        "string.template.tsx",
-        "meta.embedded.expression.tsx",
-        "meta.tag.attributes.tsx",
-        "meta.tag.tsx",
-        "meta.jsx.children.tsx",
-        "meta.block.tsx",
-        "meta.function.expression.tsx",
-        "meta.export.default.tsx",
-        "source.tsx"
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
       ],
       "settings": {
         "foreground": "#FF4D8D"
-      }
-    },
-    {
-      "scope": [
-        "string.template.tsx",
-        "meta.embedded.expression.tsx",
-        "meta.tag.attributes.tsx",
-        "meta.tag.tsx",
-        "meta.jsx.children.tsx",
-        "meta.block.tsx",
-        "meta.function.expression.tsx",
-        "meta.export.default.tsx",
-        "source.tsx"
-      ],
-      "settings": {
-        "foreground": "#00CB50"
       }
     },
     {

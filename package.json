@@ -1,9 +1,9 @@
 {
-  "name": "vercel-vscode-theme",
-  "displayName": "Vercel VSCode Theme",
-  "description": "Vercel theme for VSCode/Cursor based on ray.so",
-  "version": "1.0.0",
-  "publisher": "natemcgrady",
+  "name": "vercel-dark-theme",
+  "displayName": "Vercel Dark Theme",
+  "description": "Dark theme for VSCode/Cursor matching the Vercel docs syntax highlighting",
+  "version": "0.1.0",
+  "publisher": "aurorascharff",
   "license": "MIT",
   "repository": {
     "type": "git",
