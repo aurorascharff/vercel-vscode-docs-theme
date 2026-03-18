@@ -3,7 +3,7 @@
   "displayName": "Vercel Docs Theme",
   "description": "Dark and light themes for VSCode/Cursor matching the Vercel docs syntax highlighting",
   "version": "1.0.0",
-  "publisher": "aurorascharff",
+  "publisher": "Vercel",
   "license": "MIT",
   "repository": {
     "type": "git",
