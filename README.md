@@ -37,7 +37,7 @@ Search for "Vercel Docs Theme" in the VS Code or Cursor Extensions marketplace a
 
 ## Acknowledgments
 
-Built by [Aurora Scharff](https://github.com/aurorascharff) and [Nick McGrady](https://github.com/natemcgrady) at [Vercel](https://vercel.com). Inspired by the [Vercel theme](https://ray.so/#padding=64&theme=vercel) from [ray.so](https://ray.so) by [Raycast](https://www.raycast.com/).
+Built by [Aurora Scharff](https://github.com/aurorascharff) and [Nates McGrady](https://github.com/natemcgrady) at [Vercel](https://vercel.com). Inspired by the [Vercel theme](https://ray.so/#padding=64&theme=vercel) from [ray.so](https://ray.so) by [Raycast](https://www.raycast.com/).
 
 ## License
 
