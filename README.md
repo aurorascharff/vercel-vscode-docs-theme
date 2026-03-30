@@ -1,6 +1,8 @@
 # Vercel Docs Theme
 
-The official Vercel Docs theme for VS Code and Cursor. Dark and light color schemes matching the syntax highlighting used across the [Vercel documentation](https://vercel.com/docs).
+Dark and light themes for VS Code and Cursor matching the syntax highlighting used across the [Vercel documentation](https://vercel.com/docs).
+
+**Note:** This theme is now maintained officially at [vercel-labs/vscode-docs-theme](https://github.com/vercel-labs/vscode-docs-theme).
 
 ## Preview
 
@@ -21,7 +23,7 @@ The official Vercel Docs theme for VS Code and Cursor. Dark and light color sche
 
 ### From Marketplace
 
-Search for "Vercel Docs Theme" in the VS Code or Cursor Extensions marketplace and install the extension by `Vercel`.
+Search for "Vercel Docs Theme" in the VS Code or Cursor Extensions marketplace and install the extension by `aurorascharff`.
 
 ### Manual Installation
 
@@ -37,7 +39,7 @@ Search for "Vercel Docs Theme" in the VS Code or Cursor Extensions marketplace a
 
 ## Acknowledgments
 
-Built by [Aurora Scharff](https://github.com/aurorascharff) and [Nate McGrady](https://github.com/natemcgrady) at [Vercel](https://vercel.com). Inspired by the [Vercel theme](https://ray.so/#padding=64&theme=vercel) from [ray.so](https://ray.so) by [Raycast](https://www.raycast.com/).
+Originally forked from [natemcgrady/vercel-vscode-theme](https://github.com/natemcgrady/vercel-vscode-theme) by Nate McGrady. Inspired by the [Vercel theme](https://ray.so/#padding=64&theme=vercel) from [ray.so](https://ray.so) by [Raycast](https://www.raycast.com/).
 
 ## License
 

@@ -2,16 +2,16 @@
   "name": "vercel-docs-theme",
   "displayName": "Vercel Docs Theme",
   "description": "Dark and light themes for VSCode/Cursor matching the Vercel docs syntax highlighting",
-  "version": "1.0.0",
-  "publisher": "Vercel",
+  "version": "0.4.0",
+  "publisher": "aurorascharff",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vercel-labs/vscode-docs-theme"
+    "url": "https://github.com/aurorascharff/vercel-vscode-docs-theme"
   },
-  "homepage": "https://github.com/vercel-labs/vscode-docs-theme#readme",
+  "homepage": "https://github.com/aurorascharff/vercel-vscode-docs-theme#readme",
   "bugs": {
-    "url": "https://github.com/vercel-labs/vscode-docs-theme/issues"
+    "url": "https://github.com/aurorascharff/vercel-vscode-docs-theme/issues"
   },
   "engines": {
     "vscode": "^1.60.0"
