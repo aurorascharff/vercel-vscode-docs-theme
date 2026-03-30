@@ -2,8 +2,6 @@
 
 Dark and light themes for VS Code and Cursor matching the syntax highlighting used across the [Vercel documentation](https://vercel.com/docs).
 
-**Note:** This theme is now maintained officially at [vercel-labs/vscode-docs-theme](https://github.com/vercel-labs/vscode-docs-theme).
-
 ## Preview
 
 ### Vercel Dark
