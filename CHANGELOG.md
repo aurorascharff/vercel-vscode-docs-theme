@@ -2,6 +2,11 @@
 
 All notable changes to the "Vercel Docs Theme" extension will be documented in this file.
 
+## [0.5.0] - 2026-04-10
+
+### Changed
+- Use golden taupe for modified file indicators instead of green (dark and light themes)
+
 ## [0.4.0] - 2026-03-18
 
 ### Changed
