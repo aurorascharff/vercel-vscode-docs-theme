@@ -2,6 +2,11 @@
 
 All notable changes to the "Vercel Docs Theme" extension will be documented in this file.
 
+## [0.6.0] - 2026-04-20
+
+### Added
+- YAML syntax highlighting support
+
 ## [0.5.0] - 2026-04-10
 
 ### Changed
